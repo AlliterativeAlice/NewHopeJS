@@ -1,0 +1,27 @@
+{
+  "name": "newhopejs",
+  "version": "1.0.0",
+  "description": "A JavaScript library for performing key exchange using the post-quantum protocol NewHope.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlliterativeAlice/NewHopeJS.git"
+  },
+  "keywords": [
+    "NewHope",
+    "post-quantum"
+  ],
+  "author": "AlliterativeAlice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlliterativeAlice/NewHopeJS/issues"
+  },
+  "homepage": "https://github.com/AlliterativeAlice/NewHopeJS#readme",
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  },
+  "files": ["lib/**/*"]
+}
